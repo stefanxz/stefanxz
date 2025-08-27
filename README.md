@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A chill guy that likes to develop software</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanxz" alt="stefanxz" /></a> </p>
-
 - 🌱 I’m currently learning **everything about C++**
 
 - 📫 How to reach me **stefanavram55@gmail.com**
